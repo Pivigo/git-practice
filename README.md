@@ -1,6 +1,6 @@
 # git-practice
 
-Hello there, how are you?
+Hello there!
 
 #test
 
